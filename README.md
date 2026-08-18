@@ -45,7 +45,7 @@ This project scrapes product listings for smartphones from Flipkart's search res
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/flipkart-phone-web-scraper.git
+   git clone https://github.com/uqbamir/flipkart-phone-web-scraper.git
    cd flipkart-phone-web-scraper
    ```
 
